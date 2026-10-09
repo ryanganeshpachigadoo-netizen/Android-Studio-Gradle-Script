@@ -1,4 +1,6 @@
 # Android-Studio-Gradle-Script
+
+NOTE: Change namespace(Line 10) and applicationId(Line 14) to your actual name app to prevent errors.
 Gradle Script 
 plugins {
     id 'com.android.application'
